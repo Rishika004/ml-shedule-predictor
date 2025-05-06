@@ -3,6 +3,7 @@ Machine Learning based Scheduler Predictor that uses Random Forest to predict th
 •	Burst time
 •	Priority
 •	Historical performance metrics
+accuracy:92.6%
 
 The system also features a GUI built using Tkinter, allowing users to input process details and visualize the predicted scheduling algorithm as ganntt chart along with performance metrics.
 
